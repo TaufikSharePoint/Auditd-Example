@@ -1,10 +1,4 @@
 # Auditd-Example
-Linux Audit Daemon - Example Practice Configuration
-      ___             ___ __      __
-     /   | __  ______/ (_) /_____/ /
-    / /| |/ / / / __  / / __/ __  /
-   / ___ / /_/ / /_/ / / /_/ /_/ /
-  /_/  |_\__,_/\__,_/_/\__/\__,_/
 
 Linux Audit Daemon - Example Practice Configuration
 /etc/audit/audit.rules
