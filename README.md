@@ -1,13 +1,9 @@
 # Auditd-Example
 
-Linux Audit Daemon - Example Practice Configuration
-/etc/audit/audit.rules
+Linux Audit Daemon - Example Practice Configuration - Compiled by Taufik
 
-Compiled by Taufik
+Created  : 2023/06/16 ||  Modified : 2023/06/16
 
-Created  : 2023/06/16
-
-Modified : 2023/06/16
 
 Based on rules published here:
 
